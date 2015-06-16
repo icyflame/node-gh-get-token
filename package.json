@@ -1,0 +1,19 @@
+{
+  "name": "gh-get-token",
+  "version": "0.0.1",
+  "description": "Exchange username and password for an OAuth token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "cli",
+    "application",
+    "oauth",
+    "oauth2",
+    "configuration"
+  ],
+  "author": "Siddharth Kannan <kannan.siddharth12@gmail.com> (http://icyflame.github.io)",
+  "license": "MIT"
+}
