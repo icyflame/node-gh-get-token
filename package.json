@@ -1,6 +1,6 @@
 {
   "name": "gh-get-token",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exchange username and password for a GitHub OAuth token",
   "main": "index.js",
   "scripts": {
