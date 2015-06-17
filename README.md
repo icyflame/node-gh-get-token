@@ -4,7 +4,9 @@
 
 Designed for CLI apps.
 
-just do :-
+[![NPM](https://nodei.co/npm/gh-get-token.png?compact=true)](https://nodei.co/npm/gh-get-token/)
+
+Just do :-
 
 ```js
 config_obj = {
