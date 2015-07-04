@@ -4,7 +4,9 @@
 
 Designed for CLI apps.
 
-[![NPM](https://nodei.co/npm/gh-get-token.png?compact=true)](https://nodei.co/npm/gh-get-token/)
+[![Build Status](https://travis-ci.org/icyflame/node-cube-cli-timer.svg)](https://travis-ci.org/icyflame/node-cube-cli-timer)
+
+[![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)](https://github.com/Flet/semistandard)
 
 Just do :-
 
